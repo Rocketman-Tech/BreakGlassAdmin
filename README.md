@@ -1,3 +1,6 @@
+# Migrated to Rocketman Command Center
+We have migrated this bash script to Rocketman Command Center - visit https://github.com/Rocketman-Tech/rcc/wiki/Break-Glass-Admin for more information.
+
 # BreakGlass Admin
 <img src="images/breakglass.jpg" height="200" align=right alt="In case of emergency, break glass">
 
